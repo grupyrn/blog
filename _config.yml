@@ -7,7 +7,6 @@ favicon: 'assets/images/favicon.ico'
 google_analytics: ''
 disqus: 'demowebsite'
 # mailchimp-list:
-baseurl: /grupyrn-blog
 include: ["_pages"]
 permalink: /:title/
 comments: false
