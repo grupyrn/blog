@@ -3,13 +3,13 @@ name: "GrupyRN"
 title: "GrupyRN"
 description: "Blog da comunidade GrupyRN"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: /
+favicon: 'assets/images/favicon.ico'
 google_analytics: ''
 disqus: 'demowebsite'
-mailchimp-list: ''
+# mailchimp-list:
 include: ["_pages"]
 permalink: /:title/
+comments: false
 
 # Plugins
 plugins:
