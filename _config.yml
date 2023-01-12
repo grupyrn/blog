@@ -10,6 +10,14 @@ disqus: 'demowebsite'
 include: ["_pages"]
 permalink: /:title/
 comments: false
+authors:
+  itepifanio:
+    name: Ítalo Epifânio
+    display_name: Ítalo Epifânio
+    email: italoepifaniols@gmail.com
+    web: https://itepifanio.github.io
+    twitter: https://twitter.com/itepifanio
+    description: "Desenvolvedor web & mais"
 
 # Plugins
 plugins:
