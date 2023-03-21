@@ -2,10 +2,10 @@
 name: "GrupyRN"
 title: "GrupyRN"
 description: "Blog da comunidade GrupyRN"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-google_analytics: ''
-disqus: 'demowebsite'
+logo: "assets/images/logo.png"
+favicon: "assets/images/favicon.ico"
+google_analytics: ""
+disqus: "demowebsite"
 # mailchimp-list:
 include: ["_pages"]
 permalink: /:title/
@@ -19,6 +19,14 @@ authors:
     twitter: https://twitter.com/itepifanio
     description: "Desenvolvedor web & mais"
 
+  mayperp:
+    name: Mayra Perpétua
+    display_name: Mayra Perpétua
+    email: mayraperpetua.tech@gmail.com
+    web: https://github.com/MayraPerpetua
+    twitter: https://twitter.com/perpetua_tech
+    description: "UX UI Designer e Desenvolvedora Web"
+
 # Plugins
 plugins:
   - jekyll-paginate
@@ -26,16 +34,16 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-    
+
 # Archives
 jekyll-archives:
   enabled:
     - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
-    
-# Pagination 
+    category: "/category/:name/"
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
 
