@@ -10,3 +10,8 @@ bundle exec jekyll serve
 
 ### Docker
 
+O repositório conta com um docker-compose que pode ser instalado e executado utilizando o seguinte comando:
+
+```
+docker-compose up
+```
