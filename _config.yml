@@ -4,7 +4,7 @@ title: "GrupyRN"
 description: "Blog da comunidade GrupyRN"
 logo: "assets/images/logo.png"
 favicon: "assets/images/favicon.ico"
-google_analytics: ""
+google_analytics: "G-ZD4RGBGFPK"
 disqus: "demowebsite"
 # mailchimp-list:
 include: ["_pages"]
