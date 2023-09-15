@@ -24,7 +24,7 @@ Confira os melhores momentos do nosso 16º meetup do GruPy-RN e nossos futuros e
 
 Para quem ainda não conhece, GruPy-RN é uma comunidade entusiasta de Python no estado do Rio Grande do Norte, que visa promover o aprendizado, o compartilhamento de conhecimento e a colaboração entre seus membros.
 
-Se você tem interesse em Python ou deseja aprender mais sobre essa linguagem, participar do GruPy-RN pode ser uma ótima maneira de fazer isso. Nossos encontros acontecem trimestralmente, e temos um grupo bastante ativo no telegram, que voce pode entrar acessar esse link:
+Se você tem interesse em Python ou deseja aprender mais sobre essa linguagem, participar do GruPy-RN pode ser uma ótima maneira de fazer isso. Nossos encontros acontecem trimestralmente, e temos um grupo bastante ativo no telegram, que você pode [entrar acessar esse link](https://t.me/GrupyRN)
 
 ## Agradecimento
 
@@ -70,7 +70,7 @@ Um super agradecimento a todos os participantes do GruPy-RN! Vocês foram a ener
 Muito obrigado aos nossos patrocinadores, com a ajuda de vocês, pudemos reunir a comunidade Python e criar um evento sensacional. Esperamos que continuem conosco para mais eventos inesquecíveis. Estamos muito agradecidos pelo compromisso e incentivo em ajudar a manter nossa comunidade viva.
 
 <div style="text-align:center">
-    <img src="{{ site.baseurl }}/assets/images/2023/patrocinadores-16-meetup.png"  style="width: 600px; height: auto;"/>
+    <img src="{{ site.baseurl }}/assets/images/2023/patrocinadores-16-meetup.png"  style="width: 800px; height: auto;"/>
 </div>
 <br>
 
@@ -122,6 +122,11 @@ O encontro foi recheado de surpresas. Tivemos sorteios empolgantes, onde algumas
 Os adesivos com nossa logo e a nova arte incrível chegaram e estão agora disponíveis para venda. Leve um pedacinho do GruPy-RN para onde você for e mostre seu amor pela comunidade Python. O adesivo com a logo da comunidade está
 por R$4,00 e da arte feita pela artista <a href = "https://www.instagram.com/nonykko/" target="blank">Nonyko</a>.
 por R$5,00
+
+<div style="text-align:center">
+    <img src="{{ site.baseurl }}/assets/images/2023/adesivos.jpg"  style="width: 600px; height: auto;"/>
+</div>
+<br>
 
 ## Eventos futuros
 
