@@ -30,7 +30,7 @@ Se você tem interesse em Python ou deseja aprender mais sobre essa linguagem, p
 
 ### Organização
 
-Muito obrigado Roberta Viana, Hamilton Amadeu, Jordy Araújo, Álvaro, Rio Ribeiro, Lenin, Italo Epifânioe, Gabriel Damazio e Allythy. Vocês foram simplesmente incríveis, cuidando das atividades atribuidas. Por conta disso, tivemos organização dos horários, reserva das salas, coffeebreak com alimentação gratuita e com suporte para pessoas com restrições, criação das artes e gestão das redes sociais. O evento foi excelente, e isso foi graças
+Muito obrigado [Roberta Viana](https://www.linkedin.com/in/rovianadeoli/), [Hamilton Amadeu](https://www.linkedin.com/in/hamilton-nascimento-egjud/), [Jordy Araújo](https://www.linkedin.com/in/jordyaraujo/), [Álvaro Ferreira](https://www.linkedin.com/in/alvarofpp/), [Rio Ribeiro](https://www.linkedin.com/in/rio-ribeiro/), [Lucas Lenin](https://www.linkedin.com/in/lucas-lenin-456726162/), [Ítalo Epifânio](https://www.linkedin.com/in/italoepifanio/), [Gabriel Damazio](https://www.linkedin.com/in/gabrieldamazio/) e [Allythy](https://www.linkedin.com/in/allythy/). Vocês foram simplesmente incríveis, cuidando das atividades atribuidas. Por conta disso, tivemos organização dos horários, reserva das salas, coffeebreak com alimentação gratuita e com suporte para pessoas com restrições, criação das artes e gestão das redes sociais. O evento foi excelente, e isso foi graças
 a vocês.
 
 <div style="text-align:center">
@@ -41,7 +41,7 @@ a vocês.
 
 ### Palestrantes
 
-Agradecemos imensamente a: Thuanny Albuquerque, Soraya Roberta, Inácio Medeiros,Pablo Gustavo, Mateus Assis e Marcos Jacinto, porcompartilharem  seus conhecimentos sobre Python. Suas apresentações foram o destaque do nosso evento, oferecendo percepções valiosas e inspiração para nossa comunidade Python. Ficamos impressionados com seu conhecimento e entusiasmo. Esperamos vê-los novamente em futuros encontros.
+Agradecemos imensamente a: [Thuanny Albuquerque](https://www.linkedin.com/in/thuannyalbuquerque/), [Soraya Roberta](https://www.linkedin.com/in/soraya-roberta-msc-13ab1b102/), [Inácio Medeiros](https://www.linkedin.com/in/inacio-medeiros-709755143/), [Pablo Gustavo](https://www.linkedin.com/in/pablo-gustavo/), [Mateus Assis](https://www.linkedin.com/in/mateus-assis-013a46140/) e [Marcos Jacinto](https://www.linkedin.com/in/marcos-jacinto/), por compartilharem  seus conhecimentos sobre Python. Suas apresentações foram o destaque do nosso evento, oferecendo percepções valiosas e inspiração para nossa comunidade Python. Esperamos vê-los novamente em futuros encontros.
 
 <div style="text-align:center">
     <img src="{{ site.baseurl }}/assets/images/2023/palestras-16-meetup.jpg"  style="width: 600px; height: auto;"/>
@@ -102,7 +102,7 @@ Consultoria para empreendedores, há 49 anos apoiando o empreendedorismo no RN!
 
 Chegou a hora de relembrar os momentos incríveis do 16º meetup do GruPy-RN! Os slides estão disponíveis para você se aprofundar no conhecimento, e as fotos capturaram um pouco da energia desse evento. Dê uma espiada e compartilhe suas lembranças favoritas. Não esqueça marcar a gente quando for compartilhar [@grupyrn](https://www.instagram.com/grupyrn/).
 
-[Link dos slides](#)
+[Link dos slides](https://drive.google.com/drive/folders/1_MQiJs-hx_IAQJKykGs0XhxXMXqRjYER?usp=sharing)
 
 [Link das fotos](https://drive.google.com/drive/folders/1xrI92EMF72zjNzXGISFWd14mN3asenQZ?usp=sharing)
 
