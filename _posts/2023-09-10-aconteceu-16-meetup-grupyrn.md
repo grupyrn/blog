@@ -6,7 +6,7 @@ author: allythy
 image: assets/images/2023/encerramento-meetup-16.jpg
 categories: [Comunidade]
 comments: false
-featured: true
+featured: false
 excerpt: >
     Confira os melhores momentos do nosso 16º meetup do GruPy-RN e nosso funturos eventos.
 ---
