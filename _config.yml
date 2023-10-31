@@ -4,7 +4,7 @@ title: "GrupyRN"
 description: "Blog da comunidade GrupyRN"
 logo: "assets/images/logo.png"
 favicon: "assets/images/favicon.ico"
-google_analytics: ""
+google_analytics: "G-ZD4RGBGFPK"
 disqus: "demowebsite"
 # mailchimp-list:
 include: ["_pages"]
@@ -26,6 +26,12 @@ authors:
     web: https://github.com/MayraPerpetua
     twitter: https://twitter.com/perpetua_tech
     description: "UX UI Designer e Desenvolvedora Web"
+
+  allythy:
+    name: Allythy
+    display_name: Allythy
+    web: https://allythy.github.io/
+    description: "Desenvolvedora Web. Sempre aceito um sorvete"
 
 # Plugins
 plugins:
