@@ -81,6 +81,27 @@ a camisa GruPy ainda pode fazer a retirada no evento.
 </ul>
 </details>
 
+<details>
+<summary>[Victor Torres] Contabilidade para desenvolvedores: trabalhando para o exterior</summary>
+<ul>
+<li>📚 Bio: Engenheiro de software com mais de dez anos de experiência em múltiplas indústrias de impacto internacional: banking, telefonia, data extraction, mud logging e educação</li>
+<li>🎤 Sobre:Você já sonhou em trabalhar para o exterior? Descubra como aproveitar ao máximo as oportunidades globais, enfrentar desafios e transformar seu sonho de trabalhar no exterior em realidade. Abordaremos tópicos essenciais, desde a criação de um CNPJ até a gestão de impostos e a emissão de notas fiscais em um ambiente internacional.</li>
+<li>📁 Apresentação: <a href="{{ site.baseurl }}/assets/images/2023/gorn/slides/contabilidade-min.pdf" target="_blank">monitoramento-app-python.pdf</a></li>
+</ul>
+</ul>
+</details>
+
+<details>
+<summary>[Luan Silva] Quebrando Captchas com Python</summary>
+<ul>
+<li>📚 Bio: Sou Luan, moro em Natal e trabalho com crawlers desde 2019</li>
+<li>
+🎤 Sobre: Retirar textos de imagem pode ser mais facil do que parece, mostrarei a junção de tratamento de imagens e Python, podem ter um ótimo resultado
+</li>
+<li>📁 Apresentação: <a href="{{ site.baseurl }}/assets/images/2023/gorn/slides/captchas-min.pdf" target="_blank">monitoramento-app-python.pdf</a></li>
+</ul>
+</details>
+
 <p>&nbsp;</p>
 
 ## Dados
