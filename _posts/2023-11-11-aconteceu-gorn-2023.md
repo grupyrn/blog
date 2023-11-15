@@ -14,9 +14,8 @@ excerpt: >
     todas as palestras!
 ---
 
-Gostaríamos de agradecer a participação da comunidade, que compareceu em peso, 
-todas as nossas palestras tiveram ótimo público, ficamos bem felizes com os tópicos 
-variados das palestras e com o engajamento do público.
+Gostaríamos de agradecer a participação da comunidade, que compareceu em peso. 
+Ficamos bem felizes com os tópicos variados das palestras e com o engajamento do público.
 Os primeiros que assistiram a 4 ou mais palestras do GruPy RN levaram para casa um kit 
 da Python Nordeste (copo + camisa) e os adesivos da comunidade. Quem comprou antecipadamente 
 a camisa GruPy ainda pode fazer a retirada no evento.
