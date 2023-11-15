@@ -14,8 +14,8 @@ excerpt: >
     todas as palestras!
 ---
 
-Gostaríamos a participação da comunidade compareceu em peso, todas as nossas palestras tiveram ótimo 
-público, ficamos bem felizes com os tópicos variados das palestras e com a participação.
+Gostaríamos de agradecer a participação da comunidade, que compareceu em peso. 
+Ficamos bem felizes com os tópicos variados das palestras e com o engajamento do público.
 Os primeiros que assistiram a 4 ou mais palestras do GruPy RN levaram para casa um kit 
 da Python Nordeste (copo + camisa) e os adesivos da comunidade. Quem comprou antecipadamente 
 a camisa GruPy ainda pode fazer a retirada no evento.
@@ -66,7 +66,7 @@ a camisa GruPy ainda pode fazer a retirada no evento.
 <li>
 🎤 Sobre: Exploraremos como implementar a programação paralela usando a linguagem de programação Python. Ao longo dessa exploração, aprenderemos sobre bibliotecas fundamentais, como threading e multiprocessing, que nos permitem trabalhar com threads e processos em Python
 </li>
-<li>📁 Apresentação: <a href="{{ site.baseurl }}/assets/images/2023/gorn/slides/programacao-paralela-min.pdf" target="_blank">programacao-paralela-min.pdf</a></li>
+<li>📁 Apresentação: <a href="{{ site.baseurl }}/assets/images/2023/gorn/slides/programacao-paralela-min.pdf" target="_blank">programacao-paralela.pdf</a></li>
 </ul>
 </details>
 
@@ -86,7 +86,7 @@ a camisa GruPy ainda pode fazer a retirada no evento.
 <ul>
 <li>📚 Bio: Engenheiro de software com mais de dez anos de experiência em múltiplas indústrias de impacto internacional: banking, telefonia, data extraction, mud logging e educação</li>
 <li>🎤 Sobre:Você já sonhou em trabalhar para o exterior? Descubra como aproveitar ao máximo as oportunidades globais, enfrentar desafios e transformar seu sonho de trabalhar no exterior em realidade. Abordaremos tópicos essenciais, desde a criação de um CNPJ até a gestão de impostos e a emissão de notas fiscais em um ambiente internacional.</li>
-<li>📁 Apresentação: <a href="{{ site.baseurl }}/assets/images/2023/gorn/slides/contabilidade-min.pdf" target="_blank">monitoramento-app-python.pdf</a></li>
+<li>📁 Apresentação: <a href="{{ site.baseurl }}/assets/images/2023/gorn/slides/contabilidade-min.pdf" target="_blank">contabilidade.pdf</a></li>
 </ul>
 </ul>
 </details>
@@ -98,7 +98,7 @@ a camisa GruPy ainda pode fazer a retirada no evento.
 <li>
 🎤 Sobre: Retirar textos de imagem pode ser mais facil do que parece, mostrarei a junção de tratamento de imagens e Python, podem ter um ótimo resultado
 </li>
-<li>📁 Apresentação: <a href="{{ site.baseurl }}/assets/images/2023/gorn/slides/captchas-min.pdf" target="_blank">monitoramento-app-python.pdf</a></li>
+<li>📁 Apresentação: <a href="{{ site.baseurl }}/assets/images/2023/gorn/slides/captchas-min.pdf" target="_blank">quebrando-captchas.pdf</a></li>
 </ul>
 </details>
 
