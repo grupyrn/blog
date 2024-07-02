@@ -6,7 +6,7 @@ author: itepifanio
 image: assets/images/2023/10-meetup-mossoro.jpg
 categories: [Comunidade]
 comments: false
-featured: true
+featured: false
 excerpt: >
   Saiba mais do que foi apresentado no 10º Meetup Mossoró, 
   acesse as fotos, os slides, e mais!
