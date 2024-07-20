@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Aconteceu no 18° Meetup do Grupy"
-date: 2024-07-07 17:00:00 -0300
+date: 2024-07-20 15:00:00 -0300
 author: jhonatacaiob
-image: assets/images/2024/meetup-18/capa.jpg
+image: assets/images/2024/meetup-18/capa-evento.jpg
 categories: [Comunidade]
 comments: false
 featured: true
@@ -32,15 +32,16 @@ Agradecemos imensamente a [Emídio Neto](https://www.github.com/emdneto), [Viní
     <figcaption>Foto de um dos momentos na sala de palestras</figcaption>
 </div>
 
-## Palestras
-
-<!-- falar sobre as palestras -->
 
 ## Participantes
 
 Um grande obrigado também a todos os participantes, nós fazemos isso por vocês! Esperamos que tenham aprendido, se divertido e feito novas conexões entre a comunidade.
 
-<!-- inserir fotos do coffee break, ou a foto com todos os participantes -->
+<div style="text-align:center">
+    <img src="{{ site.baseurl }}/assets/images/2024/meetup-18/capa-evento.jpg"  style="width: 600px; height: auto;"/>
+    <figcaption>Foto do evento com todos os participantes</figcaption>
+</div>
+
 
 ## Patrocinadores
 
@@ -63,4 +64,4 @@ de impulsionar o desenvolvimento econômico e tecnológico de Natal
 
 ## Conclusão
 
-Este foi um breve resumo do que foi o 18° meetup!
+Este foi um breve resumo do que foi o 18° meetup. Nos vemos na [python nordeste](https://pythonnordeste.org)! 
