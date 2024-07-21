@@ -39,6 +39,12 @@ authors:
     web: https://github.com/igorafm/
     description: "Entusiasta da inovação, do Direito, Python e NLP"
 
+  jhonatacaiob:
+    name: Jhonata
+    display_name: Jhonata Medeiros
+    web: https://github.com/jhonatacaiob
+    description: "Desenvolvedor web e Pythonista"
+
 # Plugins
 plugins:
   - jekyll-paginate
