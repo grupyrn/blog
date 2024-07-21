@@ -11,9 +11,14 @@ excerpt: >
     Confira os melhores momentos do 18º meetup do GruPy-RN
 ---
 
-# Aconteceu no 18° Meetup do Grupy
-
 O 18° meetup do Grupy-RN aconteceu no ultimo sábado (06/07/2024) no SEBRAE-RN e como sempre, reuniu pythonistas de toda a região para falar sobre python, tecnologia e sobre a comunidade ao redor do mundo, ressaltando a importancia de uma comunidade diversa, inclusiva e ativa. 
+
+- [Conhecendo o GruPy-RN](#conhecendo-o-grupy-rn)
+- [Palestrantes](#palestrantes)
+- [Participantes](#participantes)
+- [Fotos e Slides](#fotos-e-slides)
+- [Patrocinadores](#patrocinadores)
+- [Conclusão](#conclusão)
 
 
 ## Conhecendo o GruPy-RN
@@ -25,7 +30,7 @@ Se você tem interesse em Python ou deseja aprender mais sobre essa linguagem, p
 
 ## Palestrantes
 
-Agradecemos imensamente a [Emídio Neto](https://www.github.com/emdneto), [Vinícius Mendes](https://www.github.com/vbmendes), [Jordy Araújo](https://github.com/JordyAraujo), [Pablo Gustavo](https://github.com/Pablo1Gustavo), [Lucas Matheus](https://github.com/samsepiol1), [João Pedro](https://github.com/jpfcabral) e [Jaon Azevedo](https://www.github.com/ja0n) que palestraram nessa edição! Obrigado por compartilhar tanto conhecimento com a comunidade. Esperamos ver vocês novamente em futuros encontros!
+Agradecemos imensamente a [Emídio Neto](https://www.github.com/emdneto), [Vinícius Mendes](https://www.github.com/vbmendes), [Sara Souza](https://www.linkedin.com/in/sara-souza-931337116), [Jordy Araújo](https://github.com/JordyAraujo), [Pablo Gustavo](https://github.com/Pablo1Gustavo), [Lucas Matheus](https://github.com/samsepiol1), [João Pedro](https://github.com/jpfcabral) e [Jaon Azevedo](https://www.github.com/ja0n) que palestraram nessa edição! Obrigado por compartilhar tanto conhecimento com a comunidade. Esperamos ver vocês novamente em futuros encontros!
 
 <div style="text-align:center">
     <img src="{{ site.baseurl }}/assets/images/2024/meetup-18/palestrante.jpg"  style="width: 600px; height: auto;"/>
@@ -41,6 +46,14 @@ Um grande obrigado também a todos os participantes, nós fazemos isso por você
     <img src="{{ site.baseurl }}/assets/images/2024/meetup-18/capa-evento.jpg"  style="width: 600px; height: auto;"/>
     <figcaption>Foto do evento com todos os participantes</figcaption>
 </div>
+
+
+## Fotos e Slides
+
+E para você que se interessou por algum dos assuntos apresentados durante o meetup, aqui está o [link para os slides](https://drive.google.com/drive/folders/1fZQssZu9VaAUieZ69Va4POxFkzvs6ZKv?usp=sharing) dos palestrantes. Aproveita e dá uma olhada nas [fotos do evento](https://drive.google.com/drive/folders/1AZF8y0JKr2nzhQoK5Sfg3Pi68KDeQm1z?usp=sharing) que tambem estão disponiveis no nosso drive
+
+- [Slides](https://drive.google.com/drive/folders/1fZQssZu9VaAUieZ69Va4POxFkzvs6ZKv?usp=sharing)
+- [Fotos](https://drive.google.com/drive/folders/1AZF8y0JKr2nzhQoK5Sfg3Pi68KDeQm1z?usp=sharing)
 
 
 ## Patrocinadores
