@@ -52,7 +52,7 @@ Embaixador da IBM pela FIAP.    </li>
 <ul>
 <li>📚 Bio: Desenvolvedor full stack, técnico em informática pelo IFRN e aluno do curso de Bacharelado em Tecnologia da Informação na UFRN.</li>
 <li>🎤 Sobre: Na palestra Pablo introduziu e explorou conceitos da programação funcional aplicada a linguagem Python juntamente com diversas funcionalidades da biblioteca padrão, functools, itertools e operator.</li>
-<li>📁 Apre sentação: <a href="https://drive.google.com/file/d/1lGx64Q-15D6fnmumwR7br4Hr5aoiOEoh/view?usp=sharing" target="_blank">programacao-funcional.pdf</a></li>
+<li>📁 Apresentação: <a href="https://drive.google.com/file/d/1lGx64Q-15D6fnmumwR7br4Hr5aoiOEoh/view?usp=sharing" target="_blank">programacao-funcional.pdf</a></li>
 </ul>
 </details>
 
