@@ -86,9 +86,7 @@ Dê uma espiada e compartilhe suas lembranças favoritas. Não esqueça marcar a
 
 ## Dados
 
-O Go!RN 2024 contou com 250 atividades, entre palestras, painéis, oficinas, mesas redondas e mais. Com mais de 17 mil inscrições e 10,4 participantes, essa edição do evento foi a maior já feita, superando as expectativas de 8 mil participantes. 
-Nossas palestras tiveram 460 participações contabilizadas, entrando no top 10 de comunidades com maior participação 
-no evento! Os palcos techno foram responsáveis por mais de 2 mil participações durante todo o evento. 
+PREENCHER COM DADOS DO GORN
 
 ## Conclusão
 
