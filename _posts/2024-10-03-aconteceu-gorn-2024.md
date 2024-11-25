@@ -16,7 +16,6 @@ excerpt: >
 
 - [Palestras & Materiais](#conhecendo-o-grupy-rn)
 - [Fotos](#fotos)
-- [Dados](#dados)
 - [Conclusão](#conclusão)
 
 Gostaríamos de agradecer a participação da comunidade, que compareceu em peso. 
@@ -83,10 +82,6 @@ Dê uma espiada e compartilhe suas lembranças favoritas. Não esqueça marcar a
 
 - [Fotos](https://drive.google.com/drive/folders/1YBblAt62_PMBRtvHzK4psctNuqV3YQBU?usp=sharing)
 
-
-## Dados
-
-PREENCHER COM DADOS DO GORN
 
 ## Conclusão
 
