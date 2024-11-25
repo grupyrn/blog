@@ -44,6 +44,12 @@ authors:
     display_name: Jhonata Medeiros
     web: https://github.com/jhonatacaiob
     description: "Desenvolvedor web e Pythonista"
+    
+  rio:
+    name: Rio
+    display_name: Rio
+    web: https://github.com/rioribeirods
+    description: "Pentester. Sempre aceito um cafezinho."
 
 # Plugins
 plugins:
