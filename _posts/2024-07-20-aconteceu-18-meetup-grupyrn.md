@@ -6,7 +6,7 @@ author: jhonatacaiob
 image: assets/images/2024/meetup-18/capa-evento.jpg
 categories: [Comunidade]
 comments: false
-featured: true
+featured: false
 excerpt: >
     Confira os melhores momentos do 18º meetup do GruPy-RN
 ---
