@@ -7,6 +7,17 @@ License: https://www.wowthemes.net/freebies-license/
     html { font-size:18px; } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
 }
+
+.sponsor-img {
+    max-width: 15%;
+}
+
+@media (max-width: 768px) {
+    .sponsor-img{
+        max-width: 50%;
+    }
+}
+
 .mainheading {
     padding: 1rem 0rem;
 }
