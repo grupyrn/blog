@@ -8,12 +8,16 @@ License: https://www.wowthemes.net/freebies-license/
     .container {max-width:80%;}
 }
 
-.sponsor-img {
+.sponsor-link-img {
     max-width: 15%;
 }
 
+.sponsor-link-img:hover {
+    transform: scale(1.2);
+}
+
 @media (max-width: 768px) {
-    .sponsor-img{
+    .sponsor-link-img {
         max-width: 50%;
     }
 }
