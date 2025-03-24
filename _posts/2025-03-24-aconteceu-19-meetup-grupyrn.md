@@ -6,7 +6,7 @@ author: jhonatacaiob
 image: assets/images/2024/meetup-19/capa-evento.jpg
 categories: [Comunidade]
 comments: false
-featured: false
+featured: true
 excerpt: >
     Confira (com um pouquinho de atraso) os melhores momentos do 19º meetup do GruPy-RN
 ---

@@ -6,11 +6,11 @@ author: jhonatacaiob
 image: assets/images/2024/gorn/thumbnail-gorn-2024.png
 categories: [Comunidade]
 comments: false
-featured: true
+featured: false
 excerpt: >
-    A Go!RN 2024 foi um sucesso, com mais de 15 mil participantes, 
-    o evento foi palco de muitas trocas, dinâmicas, negócios e inovações 
-    tecnologicas, confira nossa participação no evento e os materiais de 
+    A Go!RN 2024 foi um sucesso, com mais de 15 mil participantes,
+    o evento foi palco de muitas trocas, dinâmicas, negócios e inovações
+    tecnologicas, confira nossa participação no evento e os materiais de
     todas as palestras!
 ---
 
@@ -18,7 +18,7 @@ excerpt: >
 - [Fotos](#fotos)
 - [Conclusão](#conclusão)
 
-Gostaríamos de agradecer a participação da comunidade, que compareceu em peso. 
+Gostaríamos de agradecer a participação da comunidade, que compareceu em peso.
 Ficamos muitos felizes com o engajamento do público.
 Aqui está um resumo do que foi cada palestra e a participação da comunidade!
 
@@ -86,4 +86,3 @@ Dê uma espiada e compartilhe suas lembranças favoritas. Não esqueça marcar a
 ## Conclusão
 
 O Go!RN 2024 foi frenético, com atividades acontecendo a todo momento. Foi lindo apresentar a comunidade para quem não conhecia, trocar algumas experiências e mostrar o que estamos produzindo com Python. Esperamos te ver novamente nos próximos meetups, e claro, no Go!RN 2025.
-
