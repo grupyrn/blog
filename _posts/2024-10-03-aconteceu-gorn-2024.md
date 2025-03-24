@@ -6,7 +6,7 @@ author: jhonatacaiob
 image: assets/images/2024/gorn/thumbnail-gorn-2024.png
 categories: [Comunidade]
 comments: false
-featured: true
+featured: false
 excerpt: >
     A Go!RN 2024 foi um sucesso, com mais de 15 mil participantes, 
     o evento foi palco de muitas trocas, dinâmicas, negócios e inovações 
