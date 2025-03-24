@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aconteceu no 19° Meetup do Grupy"
-date: 2025-03-21 12:00:00 -0300
+date: 2025-03-20 12:00:00 -0300
 author: jhonatacaiob
 image: assets/images/2024/meetup-19/capa-evento.jpg
 categories: [Comunidade]
@@ -68,12 +68,12 @@ Aproveita e dá uma olhada nas [fotos do evento](https://drive.google.com/drive/
 
 Gostaríamos de expressar nossa sincera gratidão a Activesoft, que cedeu o espaço para o evento e disponibilizou um maravilhoso coffee break para a nossa comunidade.
 
-Sem vocês, esse meetup não seria possível!!
-
 <div style="text-align:center">
     <img src="{{ site.baseurl }}/assets/images/2024/meetup-19/coffe-break.jpg"  style="width: 600px; height: auto;"/>
     <figcaption>Coffee Break disponibilizado pela Activesoft para a comunidade</figcaption>
 </div>
+
+<br />
 
 Nós da comunidade, agradecemos profundamente pelo apoio!
 
