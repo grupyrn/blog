@@ -25,7 +25,7 @@ O 19° meetup do Grupy-RN aconteceu no dia 14 de dezembro de 2024 na sede da Act
 
 Para quem ainda não conhece, GruPy-RN é uma comunidade entusiasta de Python no estado do Rio Grande do Norte, que visa promover o aprendizado, o compartilhamento de conhecimento e a colaboração entre seus membros.
 
-Se você tem interesse em Python ou deseja aprender mais sobre essa linguagem, participar do GruPy-RN pode ser uma ótima maneira de fazer isso. Nossos encontros acontecem trimestralmente, e temos um grupo bastante ativo no telegram, que você pode [entrar acessar esse link](https://t.me/GrupyRN)
+Se você tem interesse em Python ou deseja aprender mais sobre essa linguagem, participar do GruPy-RN pode ser uma ótima maneira de fazer isso. Nossos encontros acontecem trimestralmente, e temos um grupo bastante ativo no telegram, que você pode entrar através [desse link](https://t.me/GrupyRN)
 
 
 ## Palestrantes
