@@ -8,7 +8,7 @@ categories: [Comunidade]
 comments: false
 featured: false
 excerpt: >
-    Confira os melhores momentos do 19º meetup do GruPy-RN
+    Confira (com um pouquinho de atraso) os melhores momentos do 19º meetup do GruPy-RN
 ---
 
 O 19° meetup do Grupy-RN aconteceu no dia 14 de dezembro de 2024 na sede da Activesoft e como sempre, reuniu pythonistas de toda a região para falar sobre python, tecnologia e sobre a comunidade ao redor do mundo, ressaltando a importancia de uma comunidade diversa, inclusiva e ativa.
