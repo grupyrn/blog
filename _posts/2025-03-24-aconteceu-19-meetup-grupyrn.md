@@ -75,6 +75,8 @@ Sem vocês, esse meetup não seria possível!!
     <figcaption>Coffee Break disponibilizado pela Activesoft para a comunidade</figcaption>
 </div>
 
+Nós da comunidade, agradecemos profundamente pelo apoio!
+
 ## Conclusão
 
 Este foi um breve resumo do que foi o 19° meetup. Vejo vocês em 2025 com mais encontros, e muito mais python!!
