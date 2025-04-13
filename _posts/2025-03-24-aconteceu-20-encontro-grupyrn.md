@@ -56,10 +56,8 @@ E para você que se interessou por algum dos assuntos apresentados durante o mee
 | --- | --- | --- |
 | Recomendações Inteligentes com Python e NetworkX: Criando Ferramentas e Algoritmos de Sugestões Baseados em Grafos | Pedro Luís | [Link](https://drive.google.com/file/d/1Q054ws4azjle5H2nCS740e0K0ySwRHlK/view?usp=sharing) |
 | O Curioso Mundo da POO do Python | Pablo Gustavo | [Link](https://drive.google.com/file/d/1Hm3WR11J6qOD5qEV_nNnV3S7Q9foDiEO/view?usp=sharing) |
-| Monitoramento e provisionamento do kubernetes com fastapi | Tiago da nobrega | NÃO ENVIADO |
 | Potiguana Responde: Usando LangChain para criar um chatbot de acesso a documentos da UFRN | João Pedro	| [Link](https://drive.google.com/file/d/181Hi538o7mYfdEq_E4F4UcbCwAEXfEfd/view?usp=drive_link) |
 | Testando múltiplas versões do Python em monorepos: Lições aprendidas com Tox | Emídio Neto	| [Link](https://www.canva.com/design/DAGhIy16CWU/rb4Y_GDdgKDe7D6XisdPKA/view?utm_content=DAGhIy16CWU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2ae2961f44) |
-| Ciando pipelines de dados agnósticas e multi nuvem | Eduardo Luiz | NÃO ENVIADO |
 | Um guia rápido sobre testes automatizados | Anderson Medeiros | [Link](https://docs.google.com/presentation/d/1a7vrBgbsIro3htwvmb92N0RT0jh6yXHX/edit?usp=drive_link&ouid=107780261385163959597&rtpof=true&sd=true) |
 
 <br />
