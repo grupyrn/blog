@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aconteceu no 20° encontro do Grupy"
-date: 2025-03-22 12:00:00 -0300
+date: 2025-04-13 12:00:00 -0300
 author: jhonatacaiob
 image: assets/images/2025/meetup-20/capa-evento.jpg
 categories: [Comunidade]
