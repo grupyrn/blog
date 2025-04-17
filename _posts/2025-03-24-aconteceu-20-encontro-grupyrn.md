@@ -59,6 +59,7 @@ E para você que se interessou por algum dos assuntos apresentados durante o mee
 | Potiguana Responde: Usando LangChain para criar um chatbot de acesso a documentos da UFRN | João Pedro	| [Link](https://drive.google.com/file/d/181Hi538o7mYfdEq_E4F4UcbCwAEXfEfd/view?usp=drive_link) |
 | Testando múltiplas versões do Python em monorepos: Lições aprendidas com Tox | Emídio Neto	| [Link](https://www.canva.com/design/DAGhIy16CWU/rb4Y_GDdgKDe7D6XisdPKA/view?utm_content=DAGhIy16CWU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2ae2961f44) |
 | Um guia rápido sobre testes automatizados | Anderson Medeiros | [Link](https://docs.google.com/presentation/d/1a7vrBgbsIro3htwvmb92N0RT0jh6yXHX/edit?usp=drive_link&ouid=107780261385163959597&rtpof=true&sd=true) |
+| Criando pipelines de dados agnósticas e multi nuvem | Eduardo Luiz | [Link](https://drive.google.com/file/d/1JillvSKYI8UsZbEw2FHCF6689NbF1ZBW/view?usp=drive_link)
 
 <br />
 
