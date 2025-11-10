@@ -51,6 +51,12 @@ authors:
     web: https://github.com/rioribeirods
     description: "Pentester. Sempre aceito um cafezinho."
 
+  sljoaos:
+    name: Victor
+    display_name: João Victor
+    web: https://github.com/sljoaos
+    description: "Desenvolvedor Python e entusiasta em Integração de Sistemas; vivendo o The Zen of Python desde muito cedo."
+
 # Plugins
 plugins:
   - jekyll-paginate
