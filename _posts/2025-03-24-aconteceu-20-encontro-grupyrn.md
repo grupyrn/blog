@@ -6,7 +6,7 @@ author: jhonatacaiob
 image: assets/images/2025/meetup-20/capa-evento.jpg
 categories: [Comunidade]
 comments: false
-featured: true
+featured: false
 excerpt: >
     Confira os melhores momentos do 20º encontro do GruPy-RN
 ---
