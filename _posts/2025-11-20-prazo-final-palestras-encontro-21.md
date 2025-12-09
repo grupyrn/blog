@@ -6,7 +6,7 @@ author: sljoaos
 image: assets/images/2025/meetup-21/21-encontro-ultimo-dia-21-11.jpg
 categories: [Comunidade]
 comments: false
-featured: true
+featured: false
 excerpt: >
   Estamos ansiosos para receber as ideias que você pretende compartilhar com a comunidade no nosso 21° Encontro (ocorrerá no dia 13/12), mas para isto é necessário que submeta a sua palestra para nossa banca até o dia 21/11.
 ---
